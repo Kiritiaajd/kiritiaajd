@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-💻 **I'm currently working on:**  Advanced AI projects, particularly in brain stroke detection using CNNs.<br><br>
+💻 **I'm currently working on**: Advanced AI projects focused on brain stroke detection using Convolutional Neural Networks (CNNs), while also preparing for an upcoming data science competition on Kaggle to further hone my skills and apply innovative techniques in a competitive environment.<br><br>
 🤝 **I'm looking to collaborate on:**  Machine learning and image processing projects.<br><br>
 🔧 **I'm looking for help with:** Implementing and optimizing algorithms.<br><br>
 📖 **I'm currently learning:** Advanced topics in AI and deep learning.<br><br>
