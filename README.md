@@ -3,16 +3,26 @@
 📧 **Email**: Kiriti.aajad@email.com   
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
 
----
-
 ## 💡 **About Me**  
-I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine learning techniques and image processing methodologies.  
+I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine learning techniques, image processing methodologies, and data-driven decision-making. I have hands-on experience working on impactful projects across various domains, including **healthcare** and **e-commerce**, and I continuously strive to explore innovative AI solutions.
 
-- **Current Projects**: Developing CNN models for **brain stroke detection** and preparing for Kaggle competitions to refine my skills.  
-- **Passion Areas**: Collaborating on **machine learning** and **image processing** projects, optimizing algorithms, and advancing my knowledge in **AI research**.  
-- **Fun Fact**: I love solving complex mathematical problems and exploring innovative AI solutions.
+- **Current Projects**:  
+   - Developing machine learning models to analyze **purchasing power capabilities of customers**, utilizing **predictive analytics** to understand consumer behavior, optimize pricing strategies, and drive business decisions.
+   - Contributing to **Kaggle competitions** to hone my skills in model development, data preprocessing, and feature engineering, while learning from the global data science community.
+   - Working on AI models for **brain stroke detection** using **Convolutional Neural Networks (CNNs)**, leveraging medical imaging to improve healthcare outcomes.
+  
+- **Passion Areas**:  
+   - Collaborating on **machine learning**, **deep learning**, and **AI research** projects that solve real-world problems, with a strong focus on **image classification**, **natural language processing**, and **time-series analysis**.
+   - Leveraging **data science** techniques to gain actionable insights, optimize algorithms, and contribute to **AI ethics** in the development of responsible AI technologies.
+   - Continuously refining my skills in **model deployment** and **cloud technologies** to bring scalable AI solutions to production environments using platforms like **Google Cloud** and **AWS**.
 
----
+- **Key Strengths**:  
+   - Strong mathematical background, with a passion for **optimization**, **statistical modeling**, and **algorithm development**.
+   - Proficient in using **PyTorch**, **TensorFlow**, and **Scikit-Learn** for model building, along with tools like **Docker** and **Apache Airflow** for deployment and orchestration.
+   - Excellent problem-solving skills, with a drive to **innovate** and push the boundaries of AI capabilities.
+
+- **Fun Fact**: I love solving complex mathematical problems and exploring creative ways to apply AI in diverse industries, from healthcare to retail. I am also an active contributor to open-source projects and enjoy learning new techniques to stay ahead in the fast-paced world of AI and machine learning.
+
 
 ## 🌐 **Socials**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)  
