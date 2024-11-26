@@ -22,15 +22,25 @@ I am a **Machine Learning Engineer** with a strong foundation in AI, deep learni
 ---
 
 ## 💻 **Tech Stack**  
-Here are the technologies I work with:  
+Here are the technologies I work with:
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300707F.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data Science & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### **Machine Learning & AI Libraries**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E6E6E6.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
----
+### **Frameworks & Tools**  
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%233C8739.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23696969.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### **Platforms & Services**  
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%23FFCC00.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **AI Expertise**  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23378E3D.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-%23000C39.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![RNN](https://img.shields.io/badge/RNN-%23000000.svg?style=for-the-badge&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-%23FF6F00.svg?style=for-the-badge&logo=transformers&logoColor=white)  
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%23D50000.svg?style=for-the-badge&logo=python&logoColor=white) ![Time-Series Analysis](https://img.shields.io/badge/Time--Series%20Analysis-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ## 💼 **Projects**  
 
