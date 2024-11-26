@@ -44,31 +44,40 @@ Here are the technologies I work with:
 
 ## 💼 **Projects**  
 
-### 🧠 **Brain Stroke Detection using CNNs**
-**Repository**: [Brain Stroke Detection](https://github.com/Kiritiaajd/Brain-Stroke-Detection)
-This project involves using Convolutional Neural Networks (CNNs) to classify brain stroke CT scan images into **hemorrhagic** and **ischemic** classes. I built a custom CNN model with batch normalization, dropout layers, and convolutional layers, achieving a high accuracy rate of 94% on the validation set. The model predicts the likelihood of a brain stroke for patients based on CT scans.
+### 🛒 **ML-Based Customer Purchasing Capabilities Prediction**
+**Repository**: [ML Purchasing Capabilities](https://github.com/Kiritiaajd/ML-Purchasing-Capabilities-of-a-Customer)
+In this project, I developed a machine learning model to predict a customer's purchasing behavior based on various features such as browsing history, past purchases, and demographic information. I experimented with different algorithms like Decision Trees and Random Forest to find the best model for customer segmentation and prediction.
 
-### 🏠 **California Housing Price Prediction**
-**Repository**: [California Housing Prediction](https://github.com/Kiritiaajd/California-Housing-Prediction)
-In this project, I built a neural network model using PyTorch for predicting housing prices in California. The dataset contains various features like location, median income, and house age, and the goal is to predict the median house value. I optimized the model by tuning hyperparameters to achieve better prediction accuracy.
+### 🧠 **Brain Stroke Image Analysis Using CNNs**
+**Repository**: [Brain Stroke Image Analysis](https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git)
+This project leverages Convolutional Neural Networks (CNNs) to analyze CT scan images of the brain, identifying hemorrhagic and ischemic strokes. I built a custom deep learning model with techniques like batch normalization and dropout for image classification. The model achieved high performance, offering a promising tool for automated stroke detection in medical images.
 
-### 💬 **IMDB Movie Review Sentiment Analysis**
-**Repository**: [IMDB Sentiment Analysis](https://github.com/Kiritiaajd/IMDB-Sentiment-Analysis)
-I used machine learning techniques to analyze movie reviews from IMDB and classify them as positive or negative. This project involves natural language processing (NLP) techniques like tokenization, stopword removal, and sentiment analysis using a combination of models, including Naive Bayes and LSTM for text classification.
+### 💆‍♀️ **Nurse Stress Detection Using ML**
+**Repository**: [Nurse Stress Detection](https://github.com/Kiritiaajd/Nurse_Stress_Detection.git)
+This project focuses on predicting stress levels in nurses based on multiple factors like work hours, hospital environment, and patient interaction. Machine learning algorithms were used to assess stress levels, providing insights for improved mental health and work-life balance.
 
-### 📊 **CIFAR-10 Image Classification**
-**Repository**: [CIFAR-10 Classifier](https://github.com/Kiritiaajd/CIFAR-10-Classifier)
-This project focuses on classifying images from the CIFAR-10 dataset, which includes ten different classes of objects. I developed a CNN model with multiple convolutional layers and fully connected layers. The model achieved an accuracy of 90.83% on 10,000 test images.
-
-### 🏥 **Nurse Stress Prediction**
-**Repository**: [Nurse Stress Prediction](https://github.com/Kiritiaajd/Nurse-Stress-Prediction)
-In this project, I aimed to predict nurse stress levels based on multiple input features like work hours, hospital environment, and patient interaction. By using machine learning algorithms, I built a predictive model to assess the stress levels and suggest possible solutions for better mental health.
-
-### 🔍 **Mental Stress Detection**
-**Repository**: [Mental Stress Detection](https://github.com/Kiritiaajd/Mental-Stress-Detection)
-This project focuses on identifying mental stress through various physiological signals such as heart rate, temperature, and other bio-signals. The goal was to build a real-time model using machine learning algorithms to predict stress levels for early intervention.
+### 🖼️ **CIFAR-10 Image Classification**
+**Repository**: [CIFAR-10 Classifier](https://github.com/Kiritiaajd/CIFAR10.git)
+In this project, I used Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset, which includes ten different object categories. I implemented a custom CNN model with multiple convolutional layers and achieved a test accuracy of over 90%. The model demonstrates the power of CNNs for image classification tasks.
 
 ---
+
+## 🔧 **Other Important Repositories**
+
+### 🤖 **Machine Learning Algorithms & Techniques**
+**Repository**: [Machine Learning](https://github.com/Kiritiaajd/MACHINE_LEARNING.git)
+This repository contains implementations of various machine learning algorithms and techniques, such as classification, regression, clustering, and feature engineering. It serves as a reference for solving different machine learning problems using a variety of models.
+
+### 📚 **Java Data Structures and Algorithms**
+**Repository**: [Java DSA](https://github.com/Kiritiaajd/JavaDSA.git)
+In this repository, I implemented classic data structures and algorithms in Java. It includes common algorithms such as sorting, searching, and dynamic programming, along with their explanations and use cases.
+
+---
+
+## 🌲 **Algerian Forest Fire Dataset Analysis**
+**Repository**: [Algerian Forest Dataset](https://github.com/Kiritiaajd/Algerian_forest_Dataset.git)
+This project focuses on analyzing the Algerian forest fire dataset, where I used machine learning techniques to predict the likelihood of forest fires based on various weather and environmental parameters. The goal was to predict the fire occurrence and provide insights for prevention strategies.
+
 
 ## 📊 **GitHub Stats**  
 ![](https://github-readme-stats.vercel.app/api?username=Kiritiaajd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
