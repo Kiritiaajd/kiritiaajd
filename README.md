@@ -1,7 +1,6 @@
 # 🌟 **Kiriti Aajad - Machine Learning Engineer**  
 📍 **Location**: Bhubaneswar, India  
-📧 **Email**: Kiriti.aajad@email.com  
-📱 **Phone**: +91 9931957565  
+📧 **Email**: Kiriti.aajad@email.com   
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
 
 ---
