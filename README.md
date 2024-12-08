@@ -110,27 +110,6 @@ This project focuses on analyzing the Algerian forest fire dataset, where I used
 - **AI Deployment**: Model deployment and integration with cloud platforms
 - **Problem Solving**: Experience with algorithm optimization, debugging, and efficient coding practices
 
-## 🧠 **Projects**  
-
-### **1. Brain Stroke Detection (Deep Learning with CNN)**
-- **Description**: Developed a Convolutional Neural Network (CNN) model to predict brain strokes from CT scan images. The model achieved 94% accuracy on training and validation datasets.
-- **Technologies**: PyTorch, CNN, Image Processing
-- **Link**: [Brain Stroke Prediction Repository](https://github.com/Kiritiaajd/Brain-Stroke-Prediction)
-
-### **2. Customer Purchasing Power Prediction (E-Commerce)**
-- **Description**: Implemented machine learning models to predict customer purchasing power, which helped optimize product pricing and marketing strategies.
-- **Technologies**: Python, Scikit-learn, Regression, XGBoost
-
-### **3. CIFAR-10 Image Classification (Deep Learning)**
-- **Description**: Worked on an image classification project using CNNs to classify images into 10 categories. The model achieved an accuracy of 90.83% on the test dataset.
-- **Technologies**: Python, TensorFlow, CNN
-- **Link**: [CIFAR-10 Classification Repository](https://github.com/Kiritiaajd/CIFAR-10-Image-Classification)
-
-### **4. Sentiment Analysis (NLP with Deep Learning)**
-- **Description**: Built a sentiment analysis model to classify movie reviews into positive and negative sentiments using LSTMs and attention mechanisms.
-- **Technologies**: Python, Keras, LSTM, NLP
-- **Link**: [Sentiment Analysis Repository](https://github.com/Kiritiaajd/Sentiment-Analysis)
-
 ## 💼 **Work Experience**  
 ### **Internship - Machine Learning Engineer at iNeuron**
 - **Duration**: October 2024 - Present
@@ -145,16 +124,6 @@ This project focuses on analyzing the Algerian forest fire dataset, where I used
 - **AWS Academy Graduate** – AWS Academy Introduction to Cloud
 - **Data Science, Machine Learning & Deep Learning Bootcamp** – Udemy
 - **Generative AI & LLMs Certification** – Google
-
-## 🗣 **Let's Connect!**
-Feel free to reach out to me via [email](mailto:Kiriti.aajad@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/) if you have any exciting opportunities, collaborations, or discussions around AI/ML!
-
-## 📝 **Contact Information**  
-- **Email**: Kiriti.aajad@gmail.com  
-- **LinkedIn**: [linkedin.com/in/kiriti-aajad-7894101aa/](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)  
-- **GitHub**: [github.com/Kiritiaajd](https://github.com/Kiritiaajd)
-- **X (formerly Twitter)**: [x.com/kiriti_aajad](https://x.com/kiriti_aajad)
-
 
 ## 📊 **GitHub Stats**  
 ![](https://github-readme-stats.vercel.app/api?username=Kiritiaajd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
