@@ -115,10 +115,6 @@ This project focuses on analyzing the Algerian forest fire dataset, where I used
 - **Duration**: October 2024 - Present
 - **Description**: Developing machine learning models for customer purchase behavior analysis using predictive analytics. Working closely with cross-functional teams to gather insights from large datasets and implement solutions in the e-commerce domain.
 
-### **Research Assistant - AI/ML at Kalinga Institute of Industrial Technology**
-- **Duration**: June 2023 - Present
-- **Description**: Working on research projects focused on applying AI/ML techniques for healthcare and image processing, including brain stroke prediction from medical images and other deep learning tasks.
-
 ## 🏅 **Certifications**
 - **Google AI/ML Specialization** – Coursera
 - **AWS Academy Graduate** – AWS Academy Introduction to Cloud
