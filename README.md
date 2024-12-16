@@ -24,10 +24,6 @@ I am a **Machine Learning Engineer** with a strong foundation in AI, deep learni
 - **Fun Fact**: I love solving complex mathematical problems and exploring creative ways to apply AI in diverse industries, from healthcare to retail. I am also an active contributor to open-source projects and enjoy learning new techniques to stay ahead in the fast-paced world of AI and machine learning.
 
 
-## 🌐 **Socials**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kiriti_aajad)
-
 ## 💻 **Tech Stack**  
 Here are the technologies I work with:
 
