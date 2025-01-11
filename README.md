@@ -4,7 +4,7 @@
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
 
 ## 💡 **About Me**  
-I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine learning techniques, image processing methodologies, and data-driven decision-making. I have hands-on experience working on impactful projects across various domains, including **healthcare** and **e-commerce**, and I continuously strive to explore innovative AI solutions.
+I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine-learning techniques, image-processing methodologies, and data-driven decision-making. I have hands-on experience working on impactful projects across various domains, including **healthcare** and **e-commerce**, and I continuously strive to explore innovative AI solutions.
 
 - **Current Projects**:  
    - Developing machine learning models to analyze **purchasing power capabilities of customers**, utilizing **predictive analytics** to understand consumer behavior, optimize pricing strategies, and drive business decisions.
