@@ -1,4 +1,4 @@
-# 🌟 **Kiriti Aajad - Machine Learning Engineer**  
+# 🌟 **Kiriti Aajad -Aspiring  Machine Learning Engineer**  
 📍 **Location**: Bhubaneswar, India  
 📧 **Email**: Kiriti.aajad@gmail.com   
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
