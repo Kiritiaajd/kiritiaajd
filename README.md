@@ -4,13 +4,23 @@
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
 
 ## 💡 **About Me**  
-I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine-learning techniques, image-processing methodologies, and data-driven decision-making. I have hands-on experience working on impactful projects across various domains, including **healthcare** and **e-commerce**, and I continuously strive to explore innovative AI solutions.
+I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine-learning techniques, image-processing methodologies, and data-driven decision-making. I have hands-on experience working on impactful projects across various domains, including **healthcare**, **e-commerce**, and **financial engineering**. I continuously strive to explore innovative AI solutions.
 
+- **Current Focus**:  
+   - Currently learning **Machine Learning in Financial Engineering**, focusing on leveraging machine learning algorithms for financial modeling, risk analysis, and algorithmic trading. I am working on improving my understanding of **financial markets** and **quantitative analysis** using AI techniques.
+  
 - **Current Projects**:  
    - Developing machine learning models to analyze **purchasing power capabilities of customers**, utilizing **predictive analytics** to understand consumer behavior, optimize pricing strategies, and drive business decisions.
    - Contributing to **Kaggle competitions** to hone my skills in model development, data preprocessing, and feature engineering, while learning from the global data science community.
    - Working on AI models for **brain stroke detection** using **Convolutional Neural Networks (CNNs)**, leveraging medical imaging to improve healthcare outcomes.
-  
+
+- **Previous Achievements**:  
+   - **Gold Medalist** in the 7th standard **International Mathematical Olympiad (IMO)**.  
+   - Successfully led a major research project involving **Brain Stroke Image Classification**, which applied machine learning algorithms to detect strokes in CT scan images.  
+   - Developed an **ML-based Customer Purchasing Capabilities Prediction** model that has been used to optimize pricing strategies and marketing for businesses.  
+   - Contributed significantly to a **KYC Documentation Validation System**, achieving 90% accuracy in real-time data processing for the banking sector.  
+   - Played a key role in creating a **customer segmentation model** for over 500,000 banking clients, driving business decisions with machine learning models like **K-means** and **DBSCAN**.
+
 - **Passion Areas**:  
    - Collaborating on **machine learning**, **deep learning**, and **AI research** projects that solve real-world problems, with a strong focus on **image classification**, **natural language processing**, and **time-series analysis**.
    - Leveraging **data science** techniques to gain actionable insights, optimize algorithms, and contribute to **AI ethics** in the development of responsible AI technologies.
@@ -21,7 +31,8 @@ I am a **Machine Learning Engineer** with a strong foundation in AI, deep learni
    - Proficient in using **PyTorch**, **TensorFlow**, and **Scikit-Learn** for model building, along with tools like **Docker** and **Apache Airflow** for deployment and orchestration.
    - Excellent problem-solving skills, with a drive to **innovate** and push the boundaries of AI capabilities.
 
-- **Fun Fact**: I love solving complex mathematical problems and exploring creative ways to apply AI in diverse industries, from healthcare to retail. I am also an active contributor to open-source projects and enjoy learning new techniques to stay ahead in the fast-paced world of AI and machine learning.
+- **Fun Fact**: I love solving complex mathematical problems and exploring creative ways to apply AI in diverse industries, from healthcare to retail and finance. I am also an active contributor to open-source projects and enjoy learning new techniques to stay ahead in the fast-paced world of AI and machine learning.
+
 
 
 ## 💻 **Tech Stack**  
@@ -122,11 +133,6 @@ This project focuses on analyzing the Algerian forest fire dataset, where I used
 - **Data Science**: Data cleaning, analysis, and visualization
 - **AI Deployment**: Model deployment and integration with cloud platforms
 - **Problem Solving**: Experience with algorithm optimization, debugging, and efficient coding practices
-
-## 💼 **Work Experience**  
-### **Internship - Machine Learning Engineer at iNeuron**
-- **Duration**: October 2024 - Present
-- **Description**: Developing machine learning models for customer purchase behavior analysis using predictive analytics. Working closely with cross-functional teams to gather insights from large datasets and implement solutions in the e-commerce domain.
 
 ## 🏅 **Certifications**
 - **Google AI/ML Specialization** – Coursera
