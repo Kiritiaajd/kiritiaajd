@@ -52,23 +52,40 @@ Here are the technologies I work with:
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%23D50000.svg?style=for-the-badge&logo=python&logoColor=white) ![Time-Series Analysis](https://img.shields.io/badge/Time--Series%20Analysis-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![AutoML](https://img.shields.io/badge/AutoML-%23FFB11C.svg?style=for-the-badge&logo=automl&logoColor=white)  
 
-## 💼 **Projects**  
+# Projects Overview
 
-### 🛒 **ML-Based Customer Purchasing Capabilities Prediction**
-**Repository**: [ML Purchasing Capabilities](https://github.com/Kiritiaajd/ML-Purchasing-Capabilities-of-a-Customer)
-In this project, I developed a machine learning model to predict a customer's purchasing behavior based on various features such as browsing history, past purchases, and demographic information. I experimented with different algorithms like Decision Trees and Random Forest to find the best model for customer segmentation and prediction.
+Welcome to my collection of machine learning and deep learning projects! Below, you'll find a brief description of each project along with a link to the corresponding GitHub repository.
 
-### 🧠 **Brain Stroke Image Analysis Using CNNs**
-**Repository**: [Brain Stroke Image Analysis](https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git)
+
+### 🧠 **Brain Stroke Image Analysis Using CNNs**  
+**Repository**: [Brain Stroke Image Analysis](https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git)  
+**Description**:  
 This project leverages Convolutional Neural Networks (CNNs) to analyze CT scan images of the brain, identifying hemorrhagic and ischemic strokes. I built a custom deep learning model with techniques like batch normalization and dropout for image classification. The model achieved high performance, offering a promising tool for automated stroke detection in medical images.
 
-### 💆‍♀️ **Nurse Stress Detection Using ML**
-**Repository**: [Nurse Stress Detection](https://github.com/Kiritiaajd/Nurse_Stress_Detection.git)
-This project focuses on predicting stress levels in nurses based on multiple factors like work hours, hospital environment, and patient interaction. Machine learning algorithms were used to assess stress levels, providing insights for improved mental health and work-life balance.
 
-### 🖼️ **CIFAR-10 Image Classification**
-**Repository**: [CIFAR-10 Classifier](https://github.com/Kiritiaajd/CIFAR10.git)
-In this project, I used Convolutional Neural Networks (CNNs) to classify images from the CIFAR-10 dataset, which includes ten different object categories. I implemented a custom CNN model with multiple convolutional layers and achieved a test accuracy of over 90%. The model demonstrates the power of CNNs for image classification tasks.
+### 🏦 **Banking KYC Documentation Validation**  
+**Repository**: [Banking KYC Documentation Validation](#)  
+**Description**:  
+• Developed an OCR-based deep learning pipeline for KYC document validation, achieving 90% accuracy and reducing onboarding time by 40%.  
+• Integrated cloud-hosted APIs and Cassandra for real-time scalability, streamlining account creation with minimal latency and reducing manual effort by 30%.
+
+---
+
+### 💳 **Customer Segmentation for Banking Clients**  
+**Repository**: [Customer Segmentation for Banking Clients](#)  
+**Description**:  
+• Built and deployed clustering models to segment over 500,000 customers based on behavioral data using K-means clustering and DBSCAN, providing personalized marketing recommendations.  
+• Applied SQL for data extraction and cleaning, and used Power BI for creating dynamic dashboards to visualize customer segments and actionable insights.
+
+---
+
+### 🧠 **CT Scan Brain Stroke Image Classification (Academic)**  
+**Repository**: [CT Scan Brain Stroke Classification](#)  
+**Description**:  
+• Led a team of 4 members in designing a customer segmentation model, guiding data preprocessing, model evaluation, and task completion.  
+• Built a tool that simplifies the diagnosis process, enabling healthcare professionals to determine the type of stroke and improve clinical decision-making quickly.
+
+---
 
 ---
 
