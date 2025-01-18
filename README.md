@@ -10,16 +10,8 @@ I am a **Machine Learning Engineer** with a strong foundation in AI, deep learni
    - Currently learning **Machine Learning in Financial Engineering**, focusing on leveraging machine learning algorithms for financial modeling, risk analysis, and algorithmic trading. I am working on improving my understanding of **financial markets** and **quantitative analysis** using AI techniques.
   
 - **Current Projects**:  
-   - Developing machine learning models to analyze **purchasing power capabilities of customers**, utilizing **predictive analytics** to understand consumer behavior, optimize pricing strategies, and drive business decisions.
+   - Developing machine learning models to analyze **Explainable AI** in **Financial Engineering**, utilizing **risk modeling**  to optimize pricing strategies, assess financial risks, and drive data-driven business decisions
    - Contributing to **Kaggle competitions** to hone my skills in model development, data preprocessing, and feature engineering, while learning from the global data science community.
-   - Working on AI models for **brain stroke detection** using **Convolutional Neural Networks (CNNs)**, leveraging medical imaging to improve healthcare outcomes.
-
-- **Previous Achievements**:  
-   - **Gold Medalist** in the 7th standard **International Mathematical Olympiad (IMO)**.  
-   - Successfully led a major research project involving **Brain Stroke Image Classification**, which applied machine learning algorithms to detect strokes in CT scan images.  
-   - Developed an **ML-based Customer Purchasing Capabilities Prediction** model that has been used to optimize pricing strategies and marketing for businesses.  
-   - Contributed significantly to a **KYC Documentation Validation System**, achieving 90% accuracy in real-time data processing for the banking sector.  
-   - Played a key role in creating a **customer segmentation model** for over 500,000 banking clients, driving business decisions with machine learning models like **K-means** and **DBSCAN**.
 
 - **Passion Areas**:  
    - Collaborating on **machine learning**, **deep learning**, and **AI research** projects that solve real-world problems, with a strong focus on **image classification**, **natural language processing**, and **time-series analysis**.
