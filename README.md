@@ -1,31 +1,29 @@
-# 🌟 **Kiriti Aajad -Aspiring  Machine Learning Engineer**  
+# 🌟 **Kiriti Aajad - Aspiring Machine Learning Engineer**  
 📍 **Location**: Bhubaneswar, India  
 📧 **Email**: Kiriti.aajad@gmail.com   
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
 
 ## 💡 **About Me**  
-I am a **Machine Learning Engineer** with a strong foundation in AI, deep learning, and data science. My expertise lies in solving real-world challenges using cutting-edge machine-learning techniques, image-processing methodologies, and data-driven decision-making. I have hands-on experience working on impactful projects across various domains, including **healthcare**, **e-commerce**, and **financial engineering**. I continuously strive to explore innovative AI solutions.
+I am an aspiring **Machine Learning Engineer** with a solid foundation in AI, deep learning, and data science. I specialize in applying cutting-edge machine learning techniques to solve real-world problems. My expertise spans healthcare, finance, and e-commerce domains, where I have worked on impactful projects focused on data-driven decision-making and optimization. 
 
 - **Current Focus**:  
-   - Currently learning **Machine Learning in Financial Engineering**, focusing on leveraging machine learning algorithms for financial modeling, risk analysis, and algorithmic trading. I am working on improving my understanding of **financial markets** and **quantitative analysis** using AI techniques.
-  
+   - Learning **Machine Learning in Financial Engineering** to apply AI for financial modeling, risk analysis, and algorithmic trading. I am deepening my understanding of **financial markets** and **quantitative analysis** through AI-driven insights.
+
 - **Current Projects**:  
-   - Developing machine learning models to analyze **Explainable AI** in **Financial Engineering**, utilizing **risk modeling**  to optimize pricing strategies, assess financial risks, and drive data-driven business decisions
-   - Contributing to **Kaggle competitions** to hone my skills in model development, data preprocessing, and feature engineering, while learning from the global data science community.
+   - **Explainable AI in Financial Engineering**: Developing models to optimize pricing strategies and assess financial risks using machine learning techniques.  
+   - **Kaggle Competitions**: Enhancing my skills in model development, feature engineering, and learning from the global data science community.
 
 - **Passion Areas**:  
-   - Collaborating on **machine learning**, **deep learning**, and **AI research** projects that solve real-world problems, with a strong focus on **image classification**, **natural language processing**, and **time-series analysis**.
-   - Leveraging **data science** techniques to gain actionable insights, optimize algorithms, and contribute to **AI ethics** in the development of responsible AI technologies.
-   - Continuously refining my skills in **model deployment** and **cloud technologies** to bring scalable AI solutions to production environments using platforms like **Google Cloud** and **AWS**.
+   - **AI Research**: I collaborate on machine learning, deep learning, and AI research projects to solve challenges in fields like healthcare, retail, and finance.  
+   - **AI Ethics**: Exploring the responsible use of AI, contributing to ethical AI development.  
+   - **Model Deployment**: Refining my skills in model deployment and cloud technologies using platforms like **AWS**, **Google Cloud**, and **Azure**.
 
 - **Key Strengths**:  
-   - Strong mathematical background, with a passion for **optimization**, **statistical modeling**, and **algorithm development**.
-   - Proficient in using **PyTorch**, **TensorFlow**, and **Scikit-Learn** for model building, along with tools like **Docker** and **Apache Airflow** for deployment and orchestration.
-   - Excellent problem-solving skills, with a drive to **innovate** and push the boundaries of AI capabilities.
+   - **Mathematical Foundation**: Strong background in **optimization**, **statistical modeling**, and algorithm development.  
+   - **Technical Expertise**: Proficient in **PyTorch**, **TensorFlow**, **Scikit-Learn**, and deployment tools like **Docker** and **Apache Airflow**.  
+   - **Problem-Solving**: Passionate about **innovating** and pushing the boundaries of AI.
 
-- **Fun Fact**: I love solving complex mathematical problems and exploring creative ways to apply AI in diverse industries, from healthcare to retail and finance. I am also an active contributor to open-source projects and enjoy learning new techniques to stay ahead in the fast-paced world of AI and machine learning.
-
-
+- **Fun Fact**: I love solving complex mathematical problems and finding creative ways to apply AI. I am also an active contributor to open-source projects and enjoy staying ahead of the curve with the latest AI trends.
 
 ## 💻 **Tech Stack**  
 Here are the technologies I work with:
@@ -35,8 +33,7 @@ Here are the technologies I work with:
 
 ### **Machine Learning & AI Libraries**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E6E6E6.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-%23EE4C2C.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-%23FF9900.svg?style=for-the-badge&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-%23000000.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E6E6E6.svg?style=for-the-badge&logo=matplotlib&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-%23EE4C2C.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### **Frameworks & Tools**  
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%233C8739.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
@@ -55,92 +52,43 @@ Here are the technologies I work with:
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-%23D50000.svg?style=for-the-badge&logo=python&logoColor=white) ![Time-Series Analysis](https://img.shields.io/badge/Time--Series%20Analysis-%23FF6F00.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![AutoML](https://img.shields.io/badge/AutoML-%23FFB11C.svg?style=for-the-badge&logo=automl&logoColor=white)  
 
-# Projects Overview
+## 📂 **Projects Overview**
 
-Welcome to my collection of machine learning and deep learning projects! Below, you'll find a brief description of each project along with a link to the corresponding GitHub repository.
-
+Welcome to my repository of machine learning and deep learning projects! Here you'll find a collection of my contributions to solving real-world problems using AI.
 
 ### 🧠 **Brain Stroke Image Analysis Using CNNs**  
 **Repository**: [Brain Stroke Image Analysis](https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git)  
 **Description**:  
-This project leverages Convolutional Neural Networks (CNNs) to analyze CT scan images of the brain, identifying hemorrhagic and ischemic strokes. I built a custom deep learning model with techniques like batch normalization and dropout for image classification. The model achieved high performance, offering a promising tool for automated stroke detection in medical images.
+This project uses **Convolutional Neural Networks (CNNs)** to classify brain stroke types from CT scan images. The deep learning model achieves high accuracy and aims to assist healthcare professionals in diagnosing strokes faster and more accurately.
 
-
-### 🏦 **Banking KYC Documentation Validation**  
-**Repository**: [Banking KYC Documentation Validation](#)  
+### 📊 **Customer Segmentation for Bank Clients**  
+**Repository**: [Customer Segmentation](https://github.com/Kiritiaajd/Customer_Segmentation.git)  
 **Description**:  
-• Developed an OCR-based deep learning pipeline for KYC document validation, achieving 90% accuracy and reducing onboarding time by 40%.  
-• Integrated cloud-hosted APIs and Cassandra for real-time scalability, streamlining account creation with minimal latency and reducing manual effort by 30%.
+Utilized clustering techniques to segment customers based on transaction history and purchasing behavior. The project helps banks target the right customer groups for personalized marketing and product offerings.
 
----
-
-### 💳 **Customer Segmentation for Banking Clients**  
-**Repository**: [Customer Segmentation for Banking Clients](#)  
+### 🏥 **Nurse Stress Prediction Using Wearable Sensors**  
+**Repository**: [Nurse Stress Prediction](https://github.com/Kiritiaajd/Nurse_Stress_Prediction.git)  
 **Description**:  
-• Built and deployed clustering models to segment over 500,000 customers based on behavioral data using K-means clustering and DBSCAN, providing personalized marketing recommendations.  
-• Applied SQL for data extraction and cleaning, and used Power BI for creating dynamic dashboards to visualize customer segments and actionable insights.
+Developed a machine learning model that predicts nurse stress levels based on wearable sensor data, enhancing workforce efficiency and well-being.
 
----
-
-### 🧠 **CT Scan Brain Stroke Image Classification (Academic)**  
-**Repository**: [CT Scan Brain Stroke Classification](#)  
+### 📄 **Banking Documentation Validation System**  
+**Repository**: [Banking Document Validation](https://github.com/Kiritiaajd/Banking_Document_Validation.git)  
 **Description**:  
-• Led a team of 4 members in designing a customer segmentation model, guiding data preprocessing, model evaluation, and task completion.  
-• Built a tool that simplifies the diagnosis process, enabling healthcare professionals to determine the type of stroke and improve clinical decision-making quickly.
+A deep learning-based document validation system using **OCR** for automated KYC document processing in banking applications. This system reduces human intervention and increases document processing efficiency.
+
+### 🔍 **Explainable AI for Financial Engineering**  
+**Repository**: [Explainable AI](https://github.com/Kiritiaajd/Explainable_AI.git)  
+**Description**:  
+Exploring the application of **Explainable AI** for **financial risk modeling** and **pricing optimization** in the financial sector.
+
+## 📚 **Certifications**
+- **Google Cloud AI**: Machine Learning Engineer  
+- **AWS Certified Machine Learning – Specialty**  
+- **Udemy**: Data Science and Machine Learning
+
+## 🛠 **How to Get in Touch**  
+Feel free to reach out if you'd like to collaborate on research or any machine learning projects. I'm always eager to connect with fellow professionals and AI enthusiasts!
 
 ---
 
----
-
-## 🔧 **Other Important Repositories**
-
-### 🤖 **Machine Learning Algorithms & Techniques**
-**Repository**: [Machine Learning](https://github.com/Kiritiaajd/MACHINE_LEARNING.git)
-This repository contains implementations of various machine learning algorithms and techniques, such as classification, regression, clustering, and feature engineering. It serves as a reference for solving different machine learning problems using a variety of models.
-
-### 📚 **Java Data Structures and Algorithms**
-**Repository**: [Java DSA](https://github.com/Kiritiaajd/JavaDSA.git)
-In this repository, I implemented classic data structures and algorithms in Java. It includes common algorithms such as sorting, searching, and dynamic programming, along with their explanations and use cases.
-
----
-
-## 🌲 **Algerian Forest Fire Dataset Analysis**
-**Repository**: [Algerian Forest Dataset](https://github.com/Kiritiaajd/Algerian_forest_Dataset.git)
-This project focuses on analyzing the Algerian forest fire dataset, where I used machine learning techniques to predict the likelihood of forest fires based on various weather and environmental parameters. The goal was to predict the fire occurrence and provide insights for prevention strategies.
-
-   - Contributing to **Kaggle competitions** to hone my skills in solving complex machine learning challenges and gaining insights from large datasets.
-
-## 🚀 **Technologies & Tools**  
-- **Programming Languages**: Python, Java, MATLAB, C++
-- **Machine Learning Frameworks**: PyTorch, TensorFlow, Scikit-learn, Keras
-- **Cloud Platforms**: AWS, Google Cloud Platform
-- **Tools**: Jupyter, Visual Studio Code, Git, Docker, Apache Airflow
-- **Libraries**: Pandas, NumPy, OpenCV, Matplotlib, Seaborn, Plotly, FastAPI, Flask, NLTK, SpaCy
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-
-## 🔬 **Core Competencies**  
-- **Machine Learning**: Data preprocessing, model development, feature engineering, model evaluation
-- **Deep Learning**: CNNs, RNNs, Autoencoders, Reinforcement Learning
-- **Data Science**: Data cleaning, analysis, and visualization
-- **AI Deployment**: Model deployment and integration with cloud platforms
-- **Problem Solving**: Experience with algorithm optimization, debugging, and efficient coding practices
-
-## 🏅 **Certifications**
-- **Google AI/ML Specialization** – Coursera
-- **AWS Academy Graduate** – AWS Academy Introduction to Cloud
-- **Data Science, Machine Learning & Deep Learning Bootcamp** – Udemy
-- **Generative AI & LLMs Certification** – Google
-
-## 📊 **GitHub Stats**  
-![](https://github-readme-stats.vercel.app/api?username=Kiritiaajd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kiritiaajd&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritiaajd&langs_count=8&theme=dark&hide_border=false&layout=compact&hide=Tcl,Cython&custom_title=Most%20Used%20Languages)
-
----
-
-### 🔝 **Top Contributed Repo**  
-![](https://github-contributor-stats.vercel.app/api?username=Kiritiaajd&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=Kiritiaajd&icon=0&color=0)](https://visitcount.itsvg.in)
+**Let's build smarter solutions with AI!**
