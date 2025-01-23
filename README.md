@@ -57,17 +57,17 @@ Here are the technologies I work with:
 Welcome to my repository of machine learning and deep learning projects! Here you'll find a collection of my contributions to solving real-world problems using AI.
 
 ### 🔍 **Explainable AI for Financial Engineering**  
-**Repository**: [Explainable AI](https://github.com/Kiritiaajd/Explainable_AI.git)  
+**Repository**: [Explainable AI]([https://github.com/Kiritiaajd/Explainable_AI.git](https://github.com/Kiritiaajd/Credit_risk_analysis_with_ExplainableAI.git))  
 **Description**:  
 Exploring the application of **Explainable AI** for **financial risk modeling** and **pricing optimization** in the financial sector.
 
 ### 📊 **Customer Segmentation for Bank Clients**  
-**Repository**: [Customer Segmentation](https://github.com/Kiritiaajd/Customer_Segmentation.git)  
+**Repository**: [Customer Segmentation](https://github.com/Kiritiaajd/Customer-Segmentation-for-Banking-Clients.git)  
 **Description**:  
 Utilized clustering techniques to segment customers based on transaction history and purchasing behavior. The project helps banks target the right customer groups for personalized marketing and product offerings.
 
 ### 📄 **Banking Documentation Validation System**  
-**Repository**: [Banking Document Validation](https://github.com/Kiritiaajd/Banking_Document_Validation.git)  
+**Repository**: [Banking Document Validation]([https://github.com/Kiritiaajd/Banking_Document_Validation.git](https://github.com/Kiritiaajd/Banking-Documentation-Validation-and-account-creation.git)  
 **Description**:  
 A deep learning-based document validation system using **OCR** for automated KYC document processing in banking applications. This system reduces human intervention and increases document processing efficiency.
 
@@ -77,7 +77,7 @@ A deep learning-based document validation system using **OCR** for automated KYC
 This project uses **Convolutional Neural Networks (CNNs)** to classify brain stroke types from CT scan images. The deep learning model achieves high accuracy and aims to assist healthcare professionals in diagnosing strokes faster and more accurately.
 
 ### 🏥 **Nurse Stress Prediction Using Wearable Sensors**  
-**Repository**: [Nurse Stress Prediction](https://github.com/Kiritiaajd/Nurse_Stress_Prediction.git)  
+**Repository**: [Nurse Stress Prediction]([https://github.com/Kiritiaajd/Nurse_Stress_Prediction.git](https://github.com/Kiritiaajd/Hospital-Employee-Stress-Prediction-Using-Wearable-Sensors.git))  
 **Description**:  
 Developed a machine learning model that predicts nurse stress levels based on wearable sensor data, enhancing workforce efficiency and well-being.
 
