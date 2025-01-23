@@ -57,7 +57,7 @@ Here are the technologies I work with:
 Welcome to my repository of machine learning and deep learning projects! Here you'll find a collection of my contributions to solving real-world problems using AI.
 
 ### 🔍 **Explainable AI for Financial Engineering**  
-**Repository**: [Explainable AI]([https://github.com/Kiritiaajd/Explainable_AI.git](https://github.com/Kiritiaajd/Credit_risk_analysis_with_ExplainableAI.git))  
+**Repository**: [Explainable AI](https://github.com/Kiritiaajd/Credit_risk_analysis_with_ExplainableAI.git)  
 **Description**:  
 Exploring the application of **Explainable AI** for **financial risk modeling** and **pricing optimization** in the financial sector.
 
