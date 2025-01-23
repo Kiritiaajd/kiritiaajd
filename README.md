@@ -4,7 +4,7 @@
 🔗 **[LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/)** | **[GitHub](https://github.com/Kiritiaajd)** | **[X (formerly Twitter)](https://x.com/kiriti_aajad)**  
 
 ## 💡 **About Me**  
-I am an aspiring **Machine Learning Engineer** with a solid foundation in AI, deep learning, and data science. I specialize in applying cutting-edge machine learning techniques to solve real-world problems. My expertise spans healthcare, finance, and e-commerce domains, where I have worked on impactful projects focused on data-driven decision-making and optimization. 
+I am an aspiring **Machine Learning Engineer** with a solid foundation in AI, deep learning, and data science. I specialize in applying cutting-edge machine-learning techniques to solve real-world problems. My expertise spans healthcare, finance, and e-commerce domains, where I have worked on impactful projects focused on data-driven decision-making and optimization. 
 
 - **Current Focus**:  
    - Learning **Machine Learning in Financial Engineering** to apply AI for financial modeling, risk analysis, and algorithmic trading. I am deepening my understanding of **financial markets** and **quantitative analysis** through AI-driven insights.
@@ -67,7 +67,7 @@ Exploring the application of **Explainable AI** for **financial risk modeling** 
 Utilized clustering techniques to segment customers based on transaction history and purchasing behavior. The project helps banks target the right customer groups for personalized marketing and product offerings.
 
 ### 📄 **Banking Documentation Validation System**  
-**Repository**: [Banking Document Validation]([https://github.com/Kiritiaajd/Banking_Document_Validation.git](https://github.com/Kiritiaajd/Banking-Documentation-Validation-and-account-creation.git)  
+**Repository**: [Banking Document Validation](https://github.com/Kiritiaajd/Banking-Documentation-Validation-and-account-creation.git)  
 **Description**:  
 A deep learning-based document validation system using **OCR** for automated KYC document processing in banking applications. This system reduces human intervention and increases document processing efficiency.
 
@@ -77,7 +77,7 @@ A deep learning-based document validation system using **OCR** for automated KYC
 This project uses **Convolutional Neural Networks (CNNs)** to classify brain stroke types from CT scan images. The deep learning model achieves high accuracy and aims to assist healthcare professionals in diagnosing strokes faster and more accurately.
 
 ### 🏥 **Nurse Stress Prediction Using Wearable Sensors**  
-**Repository**: [Nurse Stress Prediction]([https://github.com/Kiritiaajd/Nurse_Stress_Prediction.git](https://github.com/Kiritiaajd/Hospital-Employee-Stress-Prediction-Using-Wearable-Sensors.git))  
+**Repository**: [Nurse Stress Prediction]((https://github.com/Kiritiaajd/Hospital-Employee-Stress-Prediction-Using-Wearable-Sensors.git))  
 **Description**:  
 Developed a machine learning model that predicts nurse stress levels based on wearable sensor data, enhancing workforce efficiency and well-being.
 
