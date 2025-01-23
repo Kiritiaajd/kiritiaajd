@@ -56,30 +56,31 @@ Here are the technologies I work with:
 
 Welcome to my repository of machine learning and deep learning projects! Here you'll find a collection of my contributions to solving real-world problems using AI.
 
-### 🧠 **Brain Stroke Image Analysis Using CNNs**  
-**Repository**: [Brain Stroke Image Analysis](https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git)  
+### 🔍 **Explainable AI for Financial Engineering**  
+**Repository**: [Explainable AI](https://github.com/Kiritiaajd/Explainable_AI.git)  
 **Description**:  
-This project uses **Convolutional Neural Networks (CNNs)** to classify brain stroke types from CT scan images. The deep learning model achieves high accuracy and aims to assist healthcare professionals in diagnosing strokes faster and more accurately.
+Exploring the application of **Explainable AI** for **financial risk modeling** and **pricing optimization** in the financial sector.
 
 ### 📊 **Customer Segmentation for Bank Clients**  
 **Repository**: [Customer Segmentation](https://github.com/Kiritiaajd/Customer_Segmentation.git)  
 **Description**:  
 Utilized clustering techniques to segment customers based on transaction history and purchasing behavior. The project helps banks target the right customer groups for personalized marketing and product offerings.
 
-### 🏥 **Nurse Stress Prediction Using Wearable Sensors**  
-**Repository**: [Nurse Stress Prediction](https://github.com/Kiritiaajd/Nurse_Stress_Prediction.git)  
-**Description**:  
-Developed a machine learning model that predicts nurse stress levels based on wearable sensor data, enhancing workforce efficiency and well-being.
-
 ### 📄 **Banking Documentation Validation System**  
 **Repository**: [Banking Document Validation](https://github.com/Kiritiaajd/Banking_Document_Validation.git)  
 **Description**:  
 A deep learning-based document validation system using **OCR** for automated KYC document processing in banking applications. This system reduces human intervention and increases document processing efficiency.
 
-### 🔍 **Explainable AI for Financial Engineering**  
-**Repository**: [Explainable AI](https://github.com/Kiritiaajd/Explainable_AI.git)  
+### 🧠 **Brain Stroke Image Analysis Using CNNs**  
+**Repository**: [Brain Stroke Image Analysis](https://github.com/Kiritiaajd/Brain_Stroke_Image_Analysis.git)  
 **Description**:  
-Exploring the application of **Explainable AI** for **financial risk modeling** and **pricing optimization** in the financial sector.
+This project uses **Convolutional Neural Networks (CNNs)** to classify brain stroke types from CT scan images. The deep learning model achieves high accuracy and aims to assist healthcare professionals in diagnosing strokes faster and more accurately.
+
+### 🏥 **Nurse Stress Prediction Using Wearable Sensors**  
+**Repository**: [Nurse Stress Prediction](https://github.com/Kiritiaajd/Nurse_Stress_Prediction.git)  
+**Description**:  
+Developed a machine learning model that predicts nurse stress levels based on wearable sensor data, enhancing workforce efficiency and well-being.
+
 
 ## 📚 **Certifications**
 - **Google Cloud AI**: Machine Learning Engineer  
