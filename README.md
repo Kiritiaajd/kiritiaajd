@@ -85,7 +85,9 @@ Developed a machine learning model that predicts nurse stress levels based on we
 ## 📚 **Certifications**
 - **Google Cloud AI**: Machine Learning Engineer  
 - **AWS Certified Machine Learning – Specialty**  
-- **Udemy**: Data Science and Machine Learning
+- **Udemy**: Data Science and Machine Learning  
+- **Forage**: JP Morgan Data Science Job Simulation in Quantitative Research and Investment Banking
+
 
 ## 🛠 **How to Get in Touch**  
 Feel free to reach out if you'd like to collaborate on research or any machine learning projects. I'm always eager to connect with fellow professionals and AI enthusiasts!
