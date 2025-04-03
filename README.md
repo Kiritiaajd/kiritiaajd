@@ -76,12 +76,6 @@ A deep learning-based document validation system using **OCR** for automated KYC
 **Description**:  
 This project uses **Convolutional Neural Networks (CNNs)** to classify brain stroke types from CT scan images. The deep learning model achieves high accuracy and aims to assist healthcare professionals in diagnosing strokes faster and more accurately.
 
-### 🏥 **Nurse Stress Prediction Using Wearable Sensors**  
-**Repository**: [Nurse Stress Prediction](https://github.com/Kiritiaajd/Hospital-Employee-Stress-Prediction-Using-Wearable-Sensors.git)  
-**Description**:  
-Developed a machine learning model that predicts nurse stress levels based on wearable sensor data, enhancing workforce efficiency and well-being.
-
-
 ## 📚 **Certifications**
 - **Google Cloud AI**: Machine Learning Engineer  
 - **AWS Certified Machine Learning – Specialty**  
