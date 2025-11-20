@@ -1,6 +1,6 @@
 # 🌟 Kiriti Aajad – Machine Learning Engineer & Quantitative Finance Enthusiast
 
-📍 Bhubaneswar, India  
+📍 Delhi, India  
 📧 Kiriti.aajad@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/) • [GitHub](https://github.com/Kiritiaajd) • [X (Twitter)](https://x.com/kiriti_aajad)
 
