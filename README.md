@@ -1,5 +1,5 @@
 # KIRITI AAJAD
-AI Systems Engineer | Machine Learning Engineer | Intelligent Automation | Backend Development
+AI/ML Engineer | Intelligent Automation | Backend Development
 --
 # GitHub Statistics
 
