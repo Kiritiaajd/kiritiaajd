@@ -17,51 +17,67 @@ AI Systems Engineer | Machine Learning Engineer | Intelligent Automation | Backe
 I am an AI Systems Engineer with a strong interest in designing intelligent software systems that combine machine learning, large language models, distributed backend architectures, and intelligent automation. I enjoy building end-to-end AI solutions that transform complex business problems into scalable, reliable, and production-ready systems.
 My work spans AI agent architectures, financial intelligence platforms, enterprise automation, backend engineering, and data-driven applications, with an emphasis on clean system design, maintainability, and practical real-world deployment.
 
-My current areas of interest include:
+# Areas of Focus
 
-- Artificial Intelligence
-- Large Language Models
-- AI Agents
-- Intelligent Web Automation
-- Financial Intelligence
-- Machine Learning
-- Distributed Systems
-- Backend Architecture
-- Information Retrieval
-- Enterprise AI Platforms
+Artificial Intelligence • Machine Learning • Large Language Models • AI Agents • Information Retrieval • Intelligent Web Automation • Backend Engineering • Distributed Systems • Financial Intelligence • Enterprise AI Platforms
 
 ---
-
 # Professional Experience
 
 ## AI/ML Engineer
-**AadiSwan Info Consultants Pvt. Ltd.**
+**AadiSwan Info Consultants Pvt. Ltd.**  
+**April 2026 – Present | Delhi, India**
 
-Working on enterprise AI systems involving:
+Leading the design and development of production-grade AI systems for enterprise applications across financial services and intelligent automation.
 
-- Natural Language to SQL systems
-- Large Language Model applications
-- Enterprise knowledge retrieval
-- Financial data intelligence
-- Model Context Protocol (MCP)
-- Vector-based schema retrieval
-- Prompt engineering frameworks
-- Production AI pipelines
-- Validation and recovery workflows
+### Key Responsibilities
+
+- Design and develop enterprise AI applications powered by Large Language Models (LLMs)
+- Build Natural Language to SQL systems for structured financial data analysis
+- Architect scalable backend services using Python and FastAPI
+- Design Model Context Protocol (MCP) for intelligent context management
+- Develop vector search and enterprise knowledge retrieval systems
+- Engineer prompt orchestration and structured reasoning pipelines
+- Build production-ready validation, retry, and recovery mechanisms for AI workflows
+- Design scalable AI automation pipelines and backend architectures
+- Collaborate on the architecture and deployment of enterprise AI solutions
+
+---
+
+## AI/ML Intern
+**AadiSwan Info Consultants Pvt. Ltd.**  
+**May 2025 – March 2026 | Delhi, India**
+
+Contributed to the development of AI-driven enterprise applications while gaining hands-on experience in machine learning, backend engineering, and LLM-based systems.
+
+### Key Contributions
+
+- Assisted in developing Natural Language to SQL applications
+- Built data preprocessing and feature engineering pipelines
+- Worked on prompt engineering for Large Language Models
+- Contributed to enterprise knowledge retrieval and vector search modules
+- Developed REST APIs and backend services using Python
+- Participated in AI model evaluation, testing, and deployment workflows
+- Worked with PostgreSQL databases and enterprise datasets
+- Collaborated with senior engineers on production AI projects
 
 ---
 
 ## Data Science Trainee
-**iNeuron.ai**
+**iNeuron.ai**  
+**2024 – 2025 | Remote**
 
-Worked on:
+Completed industry-oriented training through real-world machine learning and analytics projects.
 
-- Machine Learning pipelines
-- Customer segmentation
-- Data preprocessing
-- Business intelligence dashboards
-- Feature engineering
+### Key Learning Areas
 
+- Machine Learning model development
+- Customer Segmentation
+- Data Cleaning and Feature Engineering
+- Exploratory Data Analysis (EDA)
+- SQL and Database Fundamentals
+- Power BI Dashboards
+- End-to-End Machine Learning Workflow
 ---
 
 # Featured Projects
