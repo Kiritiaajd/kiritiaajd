@@ -4,13 +4,26 @@
 
 I am an AI Systems Engineer focused on designing intelligent software systems that combine machine learning, large language models, distributed backend services, browser automation, and financial intelligence.
 
-My work primarily revolves around building production-ready AI applications—from intelligent agents and enterprise AI systems to scalable data platforms and financial analytics solutions.
+---
+
+# GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kiritiaajd&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiritiaajd&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritiaajd&layout=compact&hide_border=true&theme=github_dark" />
+</p>
 
 ---
 
 # About Me
 
 I enjoy solving complex engineering problems by designing systems that are modular, scalable, explainable, and production-ready.
+
+...
 
 My current areas of interest include:
 
