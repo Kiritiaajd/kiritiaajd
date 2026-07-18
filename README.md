@@ -1,17 +1,5 @@
 # KIRITI AAJAD
 AI/ML Engineer | Intelligent Automation | Backend Development
---
-# GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kiritiaajd&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiritiaajd&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritiaajd&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
 ---
 # About Me
 I am an AI Systems Engineer with a strong interest in designing intelligent software systems that combine machine learning, large language models, distributed backend architectures, and intelligent automation. I enjoy building end-to-end AI solutions that transform complex business problems into scalable, reliable, and production-ready systems.
@@ -307,7 +295,19 @@ When designing software, I focus on building systems that are:
 - Observable
 - Extensible
 - Production Ready
+
 --
+# GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kiritiaajd&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiritiaajd&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritiaajd&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
 # Contact
 
 **Email**
