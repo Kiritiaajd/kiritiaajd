@@ -1,11 +1,7 @@
-# Hi, I'm Kiriti Aajad
+# KIRITI AAJAD
 
 **AI Systems Engineer | Machine Learning Engineer | Intelligent Automation**
-
-I am an AI Systems Engineer focused on designing intelligent software systems that combine machine learning, large language models, distributed backend services, browser automation, and financial intelligence.
-
 ---
-
 # GitHub Statistics
 
 <p align="center">
@@ -18,11 +14,8 @@ I am an AI Systems Engineer focused on designing intelligent software systems th
 </p>
 
 ---
-
 # About Me
-
 I enjoy solving complex engineering problems by designing systems that are modular, scalable, explainable, and production-ready.
-
 ...
 
 My current areas of interest include:
