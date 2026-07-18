@@ -307,26 +307,7 @@ When designing software, I focus on building systems that are:
 - Observable
 - Extensible
 - Production Ready
-
----
-
-# GitHub Statistics
-
-<p align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kiritiaajd&show_icons=true&hide_border=true&theme=github_dark" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiritiaajd&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-# Most Used Languages
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritiaajd&layout=compact&hide_border=true&theme=github_dark" />
-</p>
-
----
-
+--
 # Contact
 
 **Email**
