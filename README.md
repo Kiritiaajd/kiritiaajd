@@ -1,5 +1,5 @@
 # KIRITI AAJAD
-AI Systems Engineer | Machine Learning Engineer | Intelligent Automation ! Danjgo Backend Development
+AI Systems Engineer | Machine Learning Engineer | Intelligent Automation | Backend Development
 --
 # GitHub Statistics
 
@@ -14,8 +14,8 @@ AI Systems Engineer | Machine Learning Engineer | Intelligent Automation ! Danjg
 
 ---
 # About Me
-I enjoy solving complex engineering problems by designing systems that are modular, scalable, explainable, and production-ready.
-...
+I am an AI Systems Engineer with a strong interest in designing intelligent software systems that combine machine learning, large language models, distributed backend architectures, and intelligent automation. I enjoy building end-to-end AI solutions that transform complex business problems into scalable, reliable, and production-ready systems.
+My work spans AI agent architectures, financial intelligence platforms, enterprise automation, backend engineering, and data-driven applications, with an emphasis on clean system design, maintainability, and practical real-world deployment.
 
 My current areas of interest include:
 
