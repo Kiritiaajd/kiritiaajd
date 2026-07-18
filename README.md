@@ -310,21 +310,9 @@ When designing software, I focus on building systems that are:
 
 # Contact
 
-**Email**
-
-kiriti.aajad@aadiswan.com
-
-**LinkedIn**
-
-https://www.linkedin.com/in/kiriti-aajad-7894101aa/
-
-**GitHub**
-
-https://github.com/Kiritiaajd
-
-**X**
-
-https://x.com/kiriti_aajad
+| Email | LinkedIn | GitHub | X |
+|:------|:---------|:-------|:--|
+| <kiriti.aajad@aadiswan.com> | [LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/) | [GitHub](https://github.com/Kiritiaajd) | [@kiriti_aajad](https://x.com/kiriti_aajad) |
 
 ---
 
