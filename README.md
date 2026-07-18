@@ -1,92 +1,329 @@
-# 🚀 Kiriti Aajad – AI Engineer | Machine Learning & Financial AI
+# Hi, I'm Kiriti Aajad
 
-📍 Delhi, India  
-📧 kiriti.aajad@aadiswan.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kiriti-aajad-7894101aa/) • [GitHub](https://github.com/Kiritiaajd) • [X (Twitter)](https://x.com/kiriti_aajad)
+**AI Systems Engineer | Machine Learning Engineer | Intelligent Automation**
 
----
+I am an AI Systems Engineer focused on designing intelligent software systems that combine machine learning, large language models, distributed backend services, browser automation, and financial intelligence.
 
-## 💡 About Me
-
-I am an **AI Engineer** specializing in building **production-grade machine learning systems and intelligent data pipelines**, with a strong focus on **financial engineering, explainable AI, and enterprise AI systems**.
-
-- **Current Focus:**  
-  - Machine Learning in Financial Engineering (credit risk, pricing, portfolio modeling)  
-  - LLM-based systems (NL → SQL, AI agents, automation pipelines)  
-  - Scalable and explainable AI systems  
+My work primarily revolves around building production-ready AI applications—from intelligent agents and enterprise AI systems to scalable data platforms and financial analytics solutions.
 
 ---
 
-## 💼 Work Experience
+# About Me
 
-- **AI/ML Engineer** @ AadiSwan Info Consultant (Delhi, India – On-site)  
-  - Built end-to-end **NL → SQL pipelines** for financial data querying  
-  - Designed **Model Context Protocol (MCP)** for structured query understanding  
-  - Developed **LLM-based schema retrieval + vector search systems**  
-  - Implemented **prompt engineering frameworks** for high-accuracy outputs  
-  - Built validation, retry, and fallback mechanisms for production reliability  
+I enjoy solving complex engineering problems by designing systems that are modular, scalable, explainable, and production-ready.
 
-- **Data Science Trainee** @ iNeuron.ai (Remote)  
-  - Developed segmentation models and ETL pipelines  
-  - Built dashboards using Power BI for business insights  
+My current areas of interest include:
 
----
-
-## ⚙️ Core Expertise
-
-- **Machine Learning & AI:** Supervised/Unsupervised Learning, Deep Learning, Transformers  
-- **LLM Systems:** NL → SQL, AI Agents, Prompt Engineering  
-- **Financial Engineering:** Credit Risk, Pricing, Quantitative Modeling  
-- **Systems Engineering:** FastAPI, Docker, Airflow, Scalable Pipelines  
+- Artificial Intelligence
+- Large Language Models
+- AI Agents
+- Intelligent Web Automation
+- Financial Intelligence
+- Machine Learning
+- Distributed Systems
+- Backend Architecture
+- Information Retrieval
+- Enterprise AI Platforms
 
 ---
 
-## 💻 Tech Stack
+# Professional Experience
 
-**Programming:**  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300707F.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+## AI/ML Engineer
+**AadiSwan Info Consultants Pvt. Ltd.**
 
-**Machine Learning & AI:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+Working on enterprise AI systems involving:
 
-**Frameworks & Tools:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-%23FF5C5C.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23696969.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
-**Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%23FFCC00.svg?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%23007FFF.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-- **[Explainable AI for Financial Engineering](https://github.com/Kiritiaajd/Credit_risk_analysis_with_ExplainableAI.git)**  
-  → Credit risk modeling with SHAP-based interpretability  
-
-- **[NL → SQL AI Agent](https://github.com/Kiritiaajd)**  
-  → LLM-powered system for converting natural language into validated SQL  
-
-- **[Banking KYC Automation](https://github.com/Kiritiaajd/Banking-Documentation-Validation-and-account-creation.git)**  
-  → CNN-based OCR pipeline for document verification  
-
-- **[Customer Segmentation](https://github.com/Kiritiaajd/Customer-Segmentation-for-Banking-Clients.git)**  
-  → Clustering models for banking analytics  
+- Natural Language to SQL systems
+- Large Language Model applications
+- Enterprise knowledge retrieval
+- Financial data intelligence
+- Model Context Protocol (MCP)
+- Vector-based schema retrieval
+- Prompt engineering frameworks
+- Production AI pipelines
+- Validation and recovery workflows
 
 ---
 
-## 📜 Certifications
+## Data Science Trainee
+**iNeuron.ai**
 
-- Google Cloud – Machine Learning Engineer  
-- AWS – Machine Learning Specialty  
-- JP Morgan – Quantitative Research Simulation  
-- Data Science & ML – Udemy  
+Worked on:
+
+- Machine Learning pipelines
+- Customer segmentation
+- Data preprocessing
+- Business intelligence dashboards
+- Feature engineering
 
 ---
 
-## 🤝 Let’s Connect
+# Featured Projects
 
-Open to:
-- AI/ML Engineering roles  
-- Research collaborations  
-- Open-source contributions  
+## Universal Web Agent *(In Progress)*
 
-⭐ If you find my work interesting, feel free to connect!
+A modular AI system capable of understanding user intent, planning tasks, searching the web, navigating websites, and executing workflows autonomously.
+
+### Key Components
+
+- Goal Understanding
+- Planning Engine
+- Search Abstraction Layer
+- Website Profiling
+- Capability Planning
+- Browser Automation
+- Execution Runtime
+- Recovery Engine
+- Experience Store
+- Multi-provider Search Architecture
+
+**Technologies**
+
+Python • FastAPI • Playwright • PostgreSQL • AsyncIO
+
+---
+
+## Financial Intelligence Platform
+
+Enterprise platform for collecting, processing, and maintaining financial information from multiple exchanges.
+
+### Features
+
+- NSE/BSE Data Collection
+- Company Master Database
+- Financial Statement Collection
+- Annual Report Downloader
+- Shareholding Pattern Extraction
+- Corporate Announcement Monitoring
+- Board Meeting Tracking
+- Intelligent TTL Refresh Engine
+- Automated Data Synchronization
+
+---
+
+## Natural Language to SQL Platform
+
+Enterprise AI platform for converting natural language into validated SQL queries.
+
+### Features
+
+- Schema Retrieval
+- Context Management
+- Prompt Engineering
+- SQL Validation
+- Retry Pipeline
+- Structured Query Generation
+- Vector Search
+
+---
+
+## Explainable Credit Risk Analysis
+
+Machine learning solution for financial credit risk prediction with explainable model outputs.
+
+### Features
+
+- Credit Risk Prediction
+- Explainable AI (SHAP)
+- Feature Importance Analysis
+- Risk Scoring
+- Model Interpretation
+
+---
+
+## Banking KYC Automation
+
+AI-powered document verification and onboarding system.
+
+### Features
+
+- OCR Pipeline
+- Document Classification
+- Identity Verification
+- CNN-based Image Processing
+- Workflow Automation
+
+---
+
+# Technical Expertise
+
+## Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Large Language Models
+- Transformers
+- Explainable AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+
+---
+
+## Backend Engineering
+
+- FastAPI
+- Django
+- REST APIs
+- PostgreSQL
+- Database Design
+- Asynchronous Programming
+
+---
+
+## Intelligent Automation
+
+- Browser Automation
+- Playwright
+- Selenium
+- Workflow Automation
+- Intelligent Web Scraping
+- Data Pipelines
+
+---
+
+## Financial Engineering
+
+- Credit Risk Modeling
+- Financial Data Engineering
+- Market Intelligence
+- Financial Analytics
+- Quantitative Data Processing
+
+---
+
+## Cloud & DevOps
+
+- Docker
+- Google Cloud Platform
+- AWS
+- CI/CD
+- GitHub Actions
+
+---
+
+# Technology Stack
+
+## Languages
+
+- Python
+- Java
+- C++
+- SQL
+- JavaScript
+- TypeScript
+
+## AI & Machine Learning
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Hugging Face Transformers
+- OpenAI APIs
+
+## Backend
+
+- FastAPI
+- Django
+- Flask
+- PostgreSQL
+- MySQL
+
+## Frontend
+
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+
+## Automation
+
+- Playwright
+- Selenium
+- BeautifulSoup
+- Requests
+
+## Cloud
+
+- Google Cloud Platform
+- AWS
+
+## Tools
+
+- Git
+- Docker
+- Postman
+- VS Code
+
+---
+
+# Current Focus
+
+Currently building and researching:
+
+- Autonomous AI Agents
+- Intelligent Web Agents
+- Browser Automation Systems
+- Financial Intelligence Platforms
+- Enterprise AI Applications
+- AI Planning Systems
+- Multi-Agent Architectures
+- Information Retrieval Systems
+
+---
+
+# Engineering Principles
+
+When designing software, I focus on building systems that are:
+
+- Modular
+- Scalable
+- Maintainable
+- Explainable
+- Fault Tolerant
+- Observable
+- Extensible
+- Production Ready
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kiritiaajd&show_icons=true&hide_border=true&theme=github_dark" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiritiaajd&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# Most Used Languages
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiritiaajd&layout=compact&hide_border=true&theme=github_dark" />
+</p>
+
+---
+
+# Contact
+
+**Email**
+
+kiriti.aajad@aadiswan.com
+
+**LinkedIn**
+
+https://www.linkedin.com/in/kiriti-aajad-7894101aa/
+
+**GitHub**
+
+https://github.com/Kiritiaajd
+
+**X**
+
+https://x.com/kiriti_aajad
+
+---
+
+> *"I enjoy building intelligent systems that combine reasoning, automation, and scalable software engineering to solve complex real-world problems."*
