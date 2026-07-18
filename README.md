@@ -1,5 +1,5 @@
 # KIRITI AAJAD
-**AI Systems Engineer | Machine Learning Engineer | Intelligent Automation ! Danjgo Backend Development**
+AI Systems Engineer | Machine Learning Engineer | Intelligent Automation ! Danjgo Backend Development
 --
 # GitHub Statistics
 
